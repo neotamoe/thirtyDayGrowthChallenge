@@ -15,6 +15,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Tuesday, March 3 - day 2
+- Running - 4 miles
+- Code - watched more videos in Advanced JS Concepts; reviewing HOF
+- Super Tuesday Voting
 
 #### Monday, March 2 - day 1
 - Running - 3 miles
