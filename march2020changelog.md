@@ -15,6 +15,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Wednesday, March 4 - day 3
+- Exercise - Walked 2 miles; played soccer; 14,476+ steps
+- Code - continued in video course (section re: closures)
+
 #### Tuesday, March 3 - day 2
 - Running - 4 miles
 - Code - watched more videos in Advanced JS Concepts; reviewing HOF
