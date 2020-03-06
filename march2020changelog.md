@@ -15,6 +15,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Thursday, March 5 - day 4
+- Exercise - 8043+ steps
+- Code - continued in video course (section re: prototypical inheritance)
+
 #### Wednesday, March 4 - day 3
 - Exercise - Walked 2 miles; played soccer; 14,476+ steps
 - Code - continued in video course (section re: closures)
