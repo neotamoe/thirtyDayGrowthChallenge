@@ -8,12 +8,20 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 - Code
 
 ### Goals
-- Exercise - Run 4+ days of the week; no day less than 8000 steps
+- Exercise - Run 4+ days of the week; no day less than 8000 steps other days
 - Code - Building, Learning, Reading, Video Tutorials
     - Deepening JavaScript knowledge
     - Other tech topics TBD
 
 ---
+
+#### Friday, March 6 - day 5
+- Exercise - 2 mile walk; over 10,000 steps
+- Code - continued in video course (exercise re: prototypical inheritance)
+    - solution to add lastYear method to Date Object:
+        ```javascript
+        Date.prototype.lastYear = function(){return this.getFullYear()-1}
+        ```
 
 #### Thursday, March 5 - day 4
 - Exercise - 8043+ steps
