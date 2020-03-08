@@ -15,6 +15,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Saturday, March 7, day 6
+- Exercise - ran 9 miles
+- Code - began new React project
+
 #### Friday, March 6 - day 5
 - Exercise - 2 mile walk; over 10,000 steps
 - Code - continued in video course (exercise re: prototypical inheritance)
