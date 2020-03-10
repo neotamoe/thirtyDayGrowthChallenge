@@ -15,6 +15,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Monday, March 9 - day 8
+- Exercise - 3 mile run; over 10,000 steps
+- Code - continued working on React project
+
 #### Sunday, March 8 - day 7
 - Exercise - 3 mile run; walk to playground; 14,600+ steps
 - Code - continued working on React project; creating components and styling using styled-components
