@@ -15,8 +15,12 @@ This is a personal changelog of my updates. Not everything is code. This log sta
 
 ---
 
+#### Tuesday, March 10 - day 9
+- Exercise - 5 mile run; over 18,000 steps
+- Code - continued working on React project
+
 #### Monday, March 9 - day 8
-- Exercise - 3 mile run; over 10,000 steps
+- Exercise - 3 mile run; over 14,500 steps
 - Code - continued working on React project
 
 #### Sunday, March 8 - day 7
