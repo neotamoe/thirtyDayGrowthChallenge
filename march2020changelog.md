@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Wednesday, March 11 - day 10
+- Exercise - soccer; over 9500 steps
+- Code - ...the same React project...refactoring components
 
 #### Tuesday, March 10 - day 9
 - Exercise - 5 mile run; over 18,000 steps
