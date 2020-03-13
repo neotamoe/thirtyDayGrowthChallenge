@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Thursday, March 12 - day 11
+- Exercise - over 9600 steps
+- Code - css styling using object-fit
+
 #### Wednesday, March 11 - day 10
 - Exercise - soccer; over 9500 steps
 - Code - ...the same React project...refactoring components
