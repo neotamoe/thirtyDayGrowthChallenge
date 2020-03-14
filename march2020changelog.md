@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Friday, March 13 - day 12
+- Exercise - ran 7 miles
+
 #### Thursday, March 12 - day 11
 - Exercise - over 9600 steps
 - Code - css styling using object-fit
