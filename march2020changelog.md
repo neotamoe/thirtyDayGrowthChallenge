@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Saturday, March 14 - day 13
+- Exercise - ran 4 miles
+
 #### Friday, March 13 - day 12
 - Exercise - ran 7 miles
 
