@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Sunday, March 15 - day 14
+- Exercise - ran 4.5 miles
+- Code - added Material-UI for checkbox
+
 #### Saturday, March 14 - day 13
 - Exercise - ran 4 miles
 
