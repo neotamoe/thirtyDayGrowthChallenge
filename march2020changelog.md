@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Monday, March 16 - day 15
+- Exercise - ran 4 miles; sat WAY too much on the starting day of the new WFH era
+- Code - added Material-UI Grid
+
 #### Sunday, March 15 - day 14
 - Exercise - ran 4.5 miles
 - Code - added Material-UI for checkbox
