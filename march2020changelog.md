@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Tuesday, March 17 - day 16
+- Exercise - no run; 9700+ steps
+- Code - replace buttons with material-ui buttons
+
 #### Monday, March 16 - day 15
 - Exercise - ran 4 miles; sat WAY too much on the starting day of the new WFH era
 - Code - added Material-UI Grid
