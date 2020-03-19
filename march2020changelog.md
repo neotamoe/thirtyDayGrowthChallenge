@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Wednesday, March 18 - day 17
+- Exercise - 5 mile run
+- Code - refined styles; added Header and Footer component
+
 #### Tuesday, March 17 - day 16
 - Exercise - no run; 9700+ steps
 - Code - replace buttons with material-ui buttons
