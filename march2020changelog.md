@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Thursday, March 19 - day 18
+- Exercise - 1 mile run; taking a respite day
+- Code - adding react-hook-form; fixing console errors
 #### Wednesday, March 18 - day 17
 - Exercise - 5 mile run
 - Code - refined styles; added Header and Footer component
