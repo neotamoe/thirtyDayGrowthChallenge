@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Friday, March 20 - day 19
+- Exercise - 6 mile run
+- Code - tiny final fix to make react-hook-form work
 #### Thursday, March 19 - day 18
 - Exercise - 1 mile run; taking a respite day
 - Code - adding react-hook-form; fixing console errors
