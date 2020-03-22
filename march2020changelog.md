@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Saturday, March 21 - day 20
+- Exercise - 2 mile walk; 2 mile run at race pace
+- Code - add input validation and custom error component
 #### Friday, March 20 - day 19
 - Exercise - 6 mile run
 - Code - tiny final fix to make react-hook-form work
