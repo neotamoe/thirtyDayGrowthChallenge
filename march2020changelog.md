@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Sunday, March 22 - day 21
+- Exercise - 5 mile run; good pace!
+- Code - fixing SignUp component; not quite 100%
+
 #### Saturday, March 21 - day 20
 - Exercise - 2 mile walk; 2 mile run at race pace
 - Code - add input validation and custom error component
