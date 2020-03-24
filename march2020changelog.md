@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Monday, March 23 - day 22
+- Exercise - 4 mile run
+- Code - fixing form
+
 #### Sunday, March 22 - day 21
 - Exercise - 5 mile run; good pace!
 - Code - fixing SignUp component; not quite 100%
