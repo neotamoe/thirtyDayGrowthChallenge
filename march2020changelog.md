@@ -14,9 +14,13 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Tuesday, March 24 - day 23
+- Exercise - 6 mile run
+- Code - fixed form and got rid of console warnings
+
 #### Monday, March 23 - day 22
 - Exercise - 4 mile run
-- Code - fixing form
+- Code - fixing form...baby steps
 
 #### Sunday, March 22 - day 21
 - Exercise - 5 mile run; good pace!
