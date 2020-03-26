@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Wednesday, March 25 - day 24
+- Exercise - over 10,000 steps (walked ~4 miles)
+- Code - refactor work
+
 #### Tuesday, March 24 - day 23
 - Exercise - 6 mile run
 - Code - fixed form and got rid of console warnings
