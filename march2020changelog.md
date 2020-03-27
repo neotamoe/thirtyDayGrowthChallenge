@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Thursday, March 26 - day 25
+- Exercise - 4 miles
+- Code - style changes to Post and SignUp components
+
 #### Wednesday, March 25 - day 24
 - Exercise - over 10,000 steps (walked ~4 miles)
 - Code - refactor work
