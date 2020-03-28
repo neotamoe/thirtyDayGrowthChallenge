@@ -14,6 +14,9 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Friday, March 27 - day 26
+- Exercise - over 10,000 steps; no run day
+- Code - style changes; add spinner to signup component for use on submit
 #### Thursday, March 26 - day 25
 - Exercise - 4 miles
 - Code - style changes to Post and SignUp components
