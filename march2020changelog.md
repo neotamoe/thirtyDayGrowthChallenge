@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Sunday, March 29 - day 28
+- Exercise - 2 mile walk; over 10,000 steps
+- Code - style changes; add MuiThemeProvider
+
 #### Saturday, March 28 - day 27
 - Exercise - 6 mile run
 - Code - style changes; add spinner to post component for use on submit
