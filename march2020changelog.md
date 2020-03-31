@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Monday, March 30 - day 29
+- Exercise - 4 mile run
+- Code - style changes; better error message with form validation
+
 #### Sunday, March 29 - day 28
 - Exercise - 2 mile walk; over 10,000 steps
 - Code - style changes; add MuiThemeProvider
