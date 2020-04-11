@@ -14,6 +14,10 @@ This is a personal changelog of my updates. Not everything is code. This log sta
     - Other tech topics TBD
 
 ---
+#### Tuesday, March 31 - day 30!
+- Exercise - 4 mile run
+- Code - custom error handling to require at least one checkbox be checked
+
 #### Monday, March 30 - day 29
 - Exercise - 4 mile run
 - Code - style changes; better error message with form validation
